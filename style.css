@@ -1,0 +1,128 @@
+header {
+    background-image: url(img/pattern.png);
+    background-size: 250px;
+    background-color: lightcyan;
+    
+}
+
+#logo {
+    margin-top: 30px;
+    margin-bottom: 0;
+    padding-top: 10px;
+    width: 200px;
+}
+
+/* Titolo */
+
+h1 {
+    font-size:40px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.txtgrey {
+    margin-top: 0;
+    color: grey;
+}
+
+.txtblue {
+    color: aqua;
+}
+
+.data {
+    font-size: 12px;
+}
+
+/* Immagini di Barners */
+.img-tim {
+    padding-top: 20px;
+}
+
+.img-tim > div {
+    font-size: 10px;
+}
+
+/* Paragrafo */
+
+p {
+    margin-right: 300px;
+}
+
+mark {
+    background-color: yellow;
+}
+
+/* Lista */
+ul {
+    padding-left: 20px;
+}
+
+
+/* Tabella */
+table { 
+    border-collapse: collapse; 
+} 
+
+thead {
+    background-color: aqua;
+    color: white;
+}
+
+.throw1, .row1 {
+    padding: 0;
+}
+
+th, td {
+    text-align:center;
+    padding-left: 400px;
+}
+
+.throw3 {
+    text-align: left;
+}
+.row3 {
+    text-align: left;
+    width: 600px;
+}
+
+.lightblue {
+    background-color: lightblue;
+}
+
+footer {
+    padding-top: 50px;
+}
+
+#img-monitor {
+    background-image: url(img/monitor.jpg);
+}
+
+.monitor {
+    width: 208px;
+    height: 160px;
+    margin: 10px 0px;
+    padding: 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+#img-graph {
+    background-image: url(img/graph.jpg);
+}
+
+.graph {
+    width: 208px;
+    height: 160px;
+    margin: 10px 0px;
+    padding: 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
